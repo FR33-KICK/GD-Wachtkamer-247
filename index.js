@@ -23,6 +23,6 @@ client.on("ready", () => {
 
         play(connection)
     })
-});
+})
 
 bot.login(process.env.token);
